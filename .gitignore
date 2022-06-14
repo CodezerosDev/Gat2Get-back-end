@@ -1,0 +1,8 @@
+#environment
+.env
+
+#com
+package-lock.json
+node_modules/
+
+#assets
