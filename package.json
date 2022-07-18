@@ -4,7 +4,7 @@
   "description": "The business purpose of this project is to provide a user friendly platform where users of the system can book their accommodations at an hourly rate as well as manage bookings.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "author": "Kavya Patel",
   "license": "ISC",
